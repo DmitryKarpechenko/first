@@ -1,11 +1,7 @@
 lalala
-<<<<<<< HEAD
 tra lala
-=======
 tralala
 111111111
-
-
 lalala
 tralala
->>>>>>> 65ea5d811056bc828a6689c998804e3e1d1a495b
+-------------------------------
